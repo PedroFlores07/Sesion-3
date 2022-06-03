@@ -9,7 +9,7 @@ A diferencia de la programación tradicional, la IA en encarga de generar los mo
 - Aprendizaje no supervisado
 - Algoritmos geneticos
 
-#### Primera práctica
+### Primera práctica
 
 Esta consistió en el uso de una IA de aprendizaje no supervisado, la cual se puede acceder con este [link](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=CppIQlPhhwhs) y se encargará de generar un video en base de los parametros definidos.
 
@@ -27,7 +27,7 @@ El resultado final puede ser observado en este [link](https://twitter.com/plfc_0
 
 Realmente me gusto mucho el resultado final.
 
-#### Segunda práctica
+### Segunda práctica
 
 En este caso, el objetivo generar una imagen con redes generativas antagonicas, es decir, que van "compitiendo" ente sí para ver cual genera un mejor resultado. Esta IA igual es del tipo de aprendizaje supervisado, ya que el usuario se encarga de descartar o aceptar los cambios. 
 
